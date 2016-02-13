@@ -1,3 +1,3 @@
 # Mole-Masher
-Advanced Higher Project
+Advanced Higher Computing Project
 https://www.surveymonkey.co.uk/r/ZM3MMDL
