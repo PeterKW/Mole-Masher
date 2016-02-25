@@ -1,0 +1,23 @@
+Welcome to Mole Masher!
+This is a game designed and coded by Peter West.
+Please note that the program works best^
+on 1280x1024 screen dimensions.
+On starting the game you will be welcomed by the start-up screen.
+This has options for ending the program (File - Quit)^ 
+viewing instructions (Help - Instructions)^
+viewing the High Score League Table (High Scores - View Table)^
+and progressing through the game to the next stage 'Enter Your Details'.
+After clicking the 'Enter Your Details' button^
+enter you name with a space between each name and click 'Submit'.
+You then will be presented with a level selection screen.
+Choose a level to start the game on (1-5)^
+the game will progress through each level^
+until it reaches the end of level 5.
+You can keep track of your current score^
+in the score window under the main game.
+Your score is the number of hits^
+Multiplied by the level of difficulty^
+and with the number of misses subtracted.
+Each level is completed when the mole has moved 50 times.
+The game adapts itself to relate to the date^
+with the mole modifying itself for Christmas and Easter time.
