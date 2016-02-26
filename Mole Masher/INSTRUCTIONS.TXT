@@ -1,9 +1,9 @@
 Welcome to Mole Masher!
-This is a game designed and coded by Peter West.
+This is a game designed and coded by Peter West
 Please note that the program works best^
 on 1280x1024 screen dimensions.
 On starting the game you will be welcomed by the start-up screen.
-This has options for ending the program (File - Quit)^ 
+This has options for ending the program (File - Quit)^
 viewing instructions (Help - Instructions)^
 viewing the High Score League Table (High Scores - View Table)^
 and progressing through the game to the next stage 'Enter Your Details'.
